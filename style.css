@@ -5,3 +5,6 @@ p {
 .Feature2 {
     background: #592121;
 }
+.Feature3 {
+    background-origin: padding-box;
+}
